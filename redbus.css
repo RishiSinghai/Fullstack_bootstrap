@@ -1,0 +1,84 @@
+.navbar
+{
+    color: white !important;
+    background: #d84f57 !important;
+
+}
+.jumbotron
+{
+    background: url("./images/Hero-banner-19th-updated.png");
+    width: 100%;
+    background-size: cover;
+    height: 450px;
+    border-radius: 0;
+}
+
+
+#heading{
+    color: white;
+    word-spacing: 15%;
+    padding: 5px;
+
+}
+#headings{
+    word-spacing: 15px;
+    color: white;
+    margin-left: 20%;
+}
+}
+#navbarDropdownMenuLink
+{
+    color: white;
+    word-spacing: 15px;
+}
+  #navbarDropdown
+  {
+    color: white;
+    word-spacing: 15px;
+  }
+.jumbotron justify
+{
+    position: relative;
+    width: 168 px;
+    
+ 
+} 
+.fouritems
+{
+    word-spacing: 15%;
+}
+.justify-content-centertext-center
+{
+  position: absolute;
+    margin-left: 308px;
+    margin-top: 13%;
+    border-radius: 7px;
+    
+}
+.cashback
+{
+        color: #737373;
+    margin-top: 15px; 
+     display: block;
+     text-align: center;
+}
+#help
+{
+    position: absolute;
+    margin-top: 8px;
+    margin-left: -43px;
+    color: white;
+}
+.card-group
+{
+backdrop-filter: hove;
+}
+.input
+{
+    border-radius: 7px; 
+}
+#btn{
+    background-color: white;
+    font: caption;
+}
+
